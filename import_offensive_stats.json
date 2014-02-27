@@ -1,0 +1,16 @@
+[
+    {
+        "yards_per_carry": 5.88,
+        "rushing_yards": 47,
+        "touchdowns": 3,
+        "fumbles": 0,
+        "receiving_yards": 0,
+        "player_number": 3,
+        "quarterback_rating": 139.6,
+        "passing_yards": 310,
+        "game_date": "2013-12-02",
+        "team_name": "Seattle Seahawks",
+        "yards_per_reception": 0.0,
+        "interceptions": 0
+    }
+]

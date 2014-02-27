@@ -1,0 +1,24 @@
+[
+    {
+        "punt_avg_distance": null,
+        "field_goal_long": 54,
+        "punts_insider_20": 0,
+        "punts": 0,
+        "player_number": 5,
+        "game_date": "2013-11-17",
+        "field_goals_attempted": 3,
+        "team_name": "Denver Broncos",
+        "field_goals_made": 2
+    },
+    {
+        "punt_avg_distance": null,
+        "field_goal_long": null,
+        "punts_insider_20": 0,
+        "punts": 0,
+        "player_number": 5,
+        "game_date": "2013-12-01",
+        "field_goals_attempted": 0,
+        "team_name": "Denver Broncos",
+        "field_goals_made": 0
+    }
+]
